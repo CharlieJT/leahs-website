@@ -35,7 +35,7 @@ p {
 
 .heading-container {
     height: 80vh;
-    background: url(../images/leah.png) no-repeat center center;
+    background: url(../images/leah.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
